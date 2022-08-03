@@ -5,7 +5,7 @@ List of my projects you can use
 
 | name | description |
 | ------ | ------ |
-| [littlelink admin](https://github.com/khzg/littlelink-admin) | laravel |
+| [littlelink admin](https://github.com/khzg/littlelink-admin) | like linktree |
 | [Island slider](https://github.com/khzg/Island-slider) | image slider |
 | [Dolphin slider](https://github.com/khzg/Dolphin-slider) | image slider |
 | [project badge](https://github.com/khzg/project-badge) | project badge |
