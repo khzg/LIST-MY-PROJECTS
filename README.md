@@ -11,6 +11,6 @@ List of my projects you can use
 | [project badge](https://github.com/khzg/project-badge) | project badge |
 | [1 landing page](https://github.com/khzg/1-landing-page) | job landing page |
 | [de personal website](https://github.com/khzg/de-personal-website) | de personal website |
-| [tech immigrants](https://github.com/khzg/tech-immigrants) | rtl |
+| [tech immigrants](https://github.com/khzg/tech-immigrants) | rtl template|
 | [hanna text editor](https://github.com/khzg/hanna-text-editor) | template |
 
