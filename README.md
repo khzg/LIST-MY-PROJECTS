@@ -5,7 +5,7 @@ List of my projects you can use
 
 | name | description |
 | ------ | ------ |
-| [Download ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/download-chatgpt/) | firefox addons |
+| [Download ChatGPT](https://github.com/khzg/ChatGPT) | firefox addons |
 | [littlelink admin](https://github.com/khzg/littlelink-admin) | like linktree |
 | [Island slider](https://github.com/khzg/Island-slider) | image slider |
 | [Dolphin slider](https://github.com/khzg/Dolphin-slider) | image slider |
