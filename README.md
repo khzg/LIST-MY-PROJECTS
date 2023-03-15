@@ -5,6 +5,7 @@ List of my projects you can use
 
 | name | description |
 | ------ | ------ |
+| [mini Browser](https://addons.mozilla.org/en-US/firefox/addon/browser) | firefox addons |
 | [ChatGPT](https://github.com/khzg/ChatGPT) | firefox addons |
 | [littlelink admin](https://github.com/khzg/littlelink-admin) | like linktree |
 | [Island slider](https://github.com/khzg/Island-slider) | image slider |
