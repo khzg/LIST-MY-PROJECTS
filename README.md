@@ -3,6 +3,8 @@
 
 List of my projects you can use
 
+*Donation by buying $5 from my NFTs: https://tinyurl.com/opensea2023
+
 | name | description |
 | ------ | ------ |
 | [Delete all tweets](https://addons.mozilla.org/en-US/firefox/addon/delete-all-tweets/) | firefox addons |
