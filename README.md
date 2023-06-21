@@ -3,9 +3,6 @@
 
 List of my projects you can use
 
-*I am here: https://olshop.ir/bid
-
-*Donation by buying $5 from my NFTs: https://tinyurl.com/opensea2023
 
 | name | description |
 | ------ | ------ |
