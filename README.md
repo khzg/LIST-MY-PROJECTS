@@ -6,8 +6,8 @@ List of my projects you can use
 
 | name | description |
 | ------ | ------ |
+| [Ai Chat everywhere](https://github.com/khzg/ChatGPT) | firefox addons |
 | [mini Browser](https://addons.mozilla.org/en-US/firefox/addon/browser) | firefox addons |
-| [ChatGPT](https://github.com/khzg/ChatGPT) | firefox addons |
 | [littlelink admin](https://github.com/khzg/littlelink-admin) | like linktree |
 | [Link Saver](https://github.com/khzg/LinkSaver/) | link management |
 | [Island slider](https://github.com/khzg/Island-slider) | image slider |
