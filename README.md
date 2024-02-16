@@ -3,6 +3,7 @@
 
 List of my projects you can use
 
+donate: USDT(BEP20): 0x2A4eE50b2bf51c38Fe66120695976be493FcE8fF
 
 | name | description |
 | ------ | ------ |
