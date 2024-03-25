@@ -8,6 +8,7 @@ donate: USDT(BEP20): 0x2A4eE50b2bf51c38Fe66120695976be493FcE8fF
 | name | description |
 | ------ | ------ |
 | [Ai Chat everywhere](https://github.com/khzg/ChatGPT) | firefox addons |
+| [Ai Chat everywhere](https://github.com/khzg/chromeChatGPT) | chrome addons |
 | [mini Browser](https://addons.mozilla.org/en-US/firefox/addon/browser) | firefox addons |
 | [littlelink admin](https://github.com/khzg/littlelink-admin) | like linktree |
 | [Link Saver](https://github.com/khzg/LinkSaver/) | link management |
